@@ -1,2 +1,2 @@
 # DeepIDIR
-Introduction of "[Deep Image Decomposition and Reconstruction](/wiki)"
+Introduction of "[Deep Image Decomposition and Reconstruction](/../../wiki)"
